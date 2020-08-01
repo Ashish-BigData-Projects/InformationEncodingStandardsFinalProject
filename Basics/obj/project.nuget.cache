@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oWctIc+Z3MYaCdo4Tl4xoN2UM7t9aLRYUenPz85ZeLJsU2CDtF1XWdIsdxt/QJtrRI2oh7NRZWaI1XwUMSmGOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\Authentication\\Basics\\Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
